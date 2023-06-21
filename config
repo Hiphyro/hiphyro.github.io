@@ -9,6 +9,8 @@
 	active = .
 [remote "origin"]
 	url = https://github.com/Hiphyro/hiphyro.github.io.git
+	title: Hiphyro's website
+	description: Work in progress website by Hiphyro
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "main"]
 	remote = origin
